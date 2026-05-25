@@ -269,12 +269,12 @@ We welcome contributions to make mining more sustainable!
 ---
 
 ## 👥 Team — @XEN!TH
-- **[Vishal Kumar](https://github.com/Vishalkumarjaiswal16)** 
+- **[Aditya Naruka](https://github.com/Adiii25)**
 - **[Shivani Sharma](https://github.com/shivxnii)**  — Team Lead
 - **Aditya Goyal**
 - **[Akshat Kumar Arya](https://github.com/Akshat-D-Arya)**
 - **Himanshi Bishoi**
-- **Aditya Naruka**
+- **[Vishal Kumar](https://github.com/Vishalkumarjaiswal16)** 
 
 ---
 
